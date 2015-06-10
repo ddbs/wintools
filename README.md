@@ -1,7 +1,7 @@
 # wintools
 Misc windows tools
 
-## Linux/Virtualization
+## Programing and Virtualization
 - Cygwin
 - Oracle VM Virtual Box
 - Xampp
@@ -9,21 +9,18 @@ Misc windows tools
 - Python 2.7
 - Python 2.7 MySQL
 - R
-- RStudio
 - Java
 
 ## Development
 - PHPMaker
 - PHPReportMaker
 - Komposer
-- Ninja IDE
 - PyScripter
 - SublimeText
 - Advanced BAT to EXE Converter
 - grepWin
 - Poedit
-
-##Databases
+- RStudio
 - HeidiSQL
 - Toad for MySQL
 
