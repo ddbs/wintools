@@ -1,7 +1,7 @@
 # wintools
 Misc windows tools
 
-## Programing and Virtualization
+## Servers, languages and databases
 - Cygwin
 - Oracle VM Virtual Box
 - Xampp
@@ -11,9 +11,7 @@ Misc windows tools
 - R
 - Java
 
-## Development
-- PHPMaker
-- PHPReportMaker
+## Development tools
 - Komposer
 - PyScripter
 - SublimeText
@@ -23,13 +21,15 @@ Misc windows tools
 - RStudio
 - HeidiSQL
 - Toad for MySQL
+- PHPMaker
+- PHPReportMaker
 
 ## Versioning
 - Git
 - GitHub
 - SourceTree
 
-## Documentation
+## Document management
 - GPL Ghostcript
 - GSView 5.0
 - HelpNDoc
@@ -40,14 +40,14 @@ Misc windows tools
 - CutePDF
 - Wkhtmltox
 
-## Networking and Communications
+## Networking and communications
 - FileZilla
 - Remote Access Viewer
 - Skype
 - WinHTTrack Website Copier
 - Meocloud
 
-## Security and Encryption
+## Security and encryption
 - AxCrypt
 - Malwarebytes
 - Microsoft Security Essentials
